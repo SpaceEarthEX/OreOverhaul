@@ -1,5 +1,5 @@
 # OreOverhaul
-*"You are looking at a big solo project, but what for? ..its for sprite practicing."* - SpaceEarthEX
+*"You are looking at my big solo project, but what for? ..its for sprite practicing."* - SpaceEarthEX
 
 **Currently there are 0 ores in this mod.**
 
