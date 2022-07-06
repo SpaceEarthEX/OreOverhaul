@@ -1,2 +1,2 @@
 # OreOverhaul
-A solo BIG project. adds many ores as i can.
+"You are currently looking at a big solo project, what cost?" - SpaceEarthEX
